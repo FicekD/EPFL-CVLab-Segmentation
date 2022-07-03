@@ -29,7 +29,7 @@ $ python evaluate.py
 File structure and model hyperparameters are configured in `config.py`.
 
 ## Example results
-Results are achieved after 50 epochs of training without data augmentation.
+Results are achieved after 50 epochs of training without data augmentation and without much optimization.
 True labels, segmented areas in red             |  Predicted segmentation map
 :-------------------------:|:-------------------------:
 <img src="./_readme/true.jpg">  |  <img src="./_readme/pred.jpg">
